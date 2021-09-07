@@ -1821,6 +1821,8 @@ section {
 {
   margin-top: 5rem;
   margin-left:5rem;
+  justify-content: center!important;
+  padding-left: 60px;
   
 }
 
